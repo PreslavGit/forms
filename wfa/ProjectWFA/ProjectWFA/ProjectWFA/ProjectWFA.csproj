@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{252DE1B1-4859-47BA-9BF6-ABE7E3BFD9F0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjectWFA</RootNamespace>
+    <AssemblyName>ProjectWFA</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configurator.cs" />
+    <Compile Include="DBManipulator.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grade\FormEditGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grade\FormEditGrade.Designer.cs">
+      <DependentUpon>FormEditGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grade\FormViewGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grade\FormViewGrade.Designer.cs">
+      <DependentUpon>FormViewGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grade\Grade.cs" />
+    <Compile Include="Specialty\FormEditSpecialty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Specialty\FormEditSpecialty.Designer.cs">
+      <DependentUpon>FormEditSpecialty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grade\FormGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grade\FormGrade.Designer.cs">
+      <DependentUpon>FormGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Specialty\FormSpecialty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Specialty\FormSpecialty.Designer.cs">
+      <DependentUpon>FormSpecialty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Specialty\Specialty.cs" />
+    <Compile Include="Student\FormEditStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\FormEditStudent.Designer.cs">
+      <DependentUpon>FormEditStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\FormStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\FormStudent.Designer.cs">
+      <DependentUpon>FormStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\FormViewStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\FormViewStudent.Designer.cs">
+      <DependentUpon>FormViewStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\Student.cs" />
+    <Compile Include="Subject\FormEditSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Subject\FormEditSubject.Designer.cs">
+      <DependentUpon>FormEditSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Subject\FormSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Subject\FormSubject.Designer.cs">
+      <DependentUpon>FormSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Specialty\FormViewSpecialty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Specialty\FormViewSpecialty.Designer.cs">
+      <DependentUpon>FormViewSpecialty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Subject\FormViewSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Subject\FormViewSubject.Designer.cs">
+      <DependentUpon>FormViewSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Subject\Subject.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grade\FormEditGrade.resx">
+      <DependentUpon>FormEditGrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grade\FormGrade.resx">
+      <DependentUpon>FormGrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grade\FormViewGrade.resx">
+      <DependentUpon>FormViewGrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Specialty\FormEditSpecialty.resx">
+      <DependentUpon>FormEditSpecialty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Specialty\FormSpecialty.resx">
+      <DependentUpon>FormSpecialty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Specialty\FormViewSpecialty.resx">
+      <DependentUpon>FormViewSpecialty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\FormEditStudent.resx">
+      <DependentUpon>FormEditStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\FormStudent.resx">
+      <DependentUpon>FormStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\FormViewStudent.resx">
+      <DependentUpon>FormViewStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subject\FormEditSubject.resx">
+      <DependentUpon>FormEditSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subject\FormSubject.resx">
+      <DependentUpon>FormSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Subject\FormViewSubject.resx">
+      <DependentUpon>FormViewSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
