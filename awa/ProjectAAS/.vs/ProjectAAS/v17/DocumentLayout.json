@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\awa\\ProjectAAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|d:\\code\\awa\\projectaas\\projectaas\\studentinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|solutionrelative:projectaas\\studentinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|d:\\code\\awa\\projectaas\\projectaas\\studentinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|solutionrelative:projectaas\\studentinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|d:\\code\\awa\\projectaas\\projectaas\\subjectinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|solutionrelative:projectaas\\subjectinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|d:\\code\\awa\\projectaas\\projectaas\\configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|solutionrelative:projectaas\\configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|d:\\code\\awa\\projectaas\\projectaas\\specialtyinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|solutionrelative:projectaas\\specialtyinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|d:\\code\\awa\\projectaas\\projectaas\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|solutionrelative:projectaas\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|d:\\code\\awa\\projectaas\\projectaas\\subjects.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|solutionrelative:projectaas\\subjects.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|d:\\code\\awa\\projectaas\\projectaas\\subjects.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|solutionrelative:projectaas\\subjects.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|d:\\code\\awa\\projectaas\\projectaas\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|solutionrelative:projectaas\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|d:\\code\\awa\\projectaas\\projectaas\\students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{48FFB82F-F799-4145-B93B-E1129A10BB9A}|ProjectAAS\\ProjectAAS.csproj|solutionrelative:projectaas\\students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpecialtyInfo.aspx.cs",
+              "DocumentMoniker": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\SpecialtyInfo.aspx.cs",
+              "RelativeDocumentMoniker": "ProjectAAS\\SpecialtyInfo.aspx.cs",
+              "ToolTip": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\SpecialtyInfo.aspx.cs",
+              "RelativeToolTip": "ProjectAAS\\SpecialtyInfo.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:21:08.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Student.cs",
+              "RelativeDocumentMoniker": "ProjectAAS\\Student.cs",
+              "ToolTip": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Student.cs",
+              "RelativeToolTip": "ProjectAAS\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:16:08.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubjectInfo.aspx",
+              "DocumentMoniker": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\SubjectInfo.aspx",
+              "RelativeDocumentMoniker": "ProjectAAS\\SubjectInfo.aspx",
+              "ToolTip": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\SubjectInfo.aspx",
+              "RelativeToolTip": "ProjectAAS\\SubjectInfo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-20T12:49:56.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentInfo.aspx.cs",
+              "DocumentMoniker": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\StudentInfo.aspx.cs",
+              "RelativeDocumentMoniker": "ProjectAAS\\StudentInfo.aspx.cs",
+              "ToolTip": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\StudentInfo.aspx.cs",
+              "RelativeToolTip": "ProjectAAS\\StudentInfo.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvyEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:50:05.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentInfo.aspx",
+              "DocumentMoniker": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\StudentInfo.aspx",
+              "RelativeDocumentMoniker": "ProjectAAS\\StudentInfo.aspx",
+              "ToolTip": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\StudentInfo.aspx",
+              "RelativeToolTip": "ProjectAAS\\StudentInfo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-20T12:49:50.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subjects.aspx",
+              "DocumentMoniker": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Subjects.aspx",
+              "RelativeDocumentMoniker": "ProjectAAS\\Subjects.aspx",
+              "ToolTip": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Subjects.aspx",
+              "RelativeToolTip": "ProjectAAS\\Subjects.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-20T12:48:26.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subjects.aspx.cs",
+              "DocumentMoniker": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Subjects.aspx.cs",
+              "RelativeDocumentMoniker": "ProjectAAS\\Subjects.aspx.cs",
+              "ToolTip": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Subjects.aspx.cs",
+              "RelativeToolTip": "ProjectAAS\\Subjects.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:48:07.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configurator.cs",
+              "DocumentMoniker": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Configurator.cs",
+              "RelativeDocumentMoniker": "ProjectAAS\\Configurator.cs",
+              "ToolTip": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Configurator.cs",
+              "RelativeToolTip": "ProjectAAS\\Configurator.cs",
+              "ViewState": "AQIAAEsBAAAAAAAAAAAQwF0BAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:44:03.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Students.aspx",
+              "DocumentMoniker": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Students.aspx",
+              "RelativeDocumentMoniker": "ProjectAAS\\Students.aspx",
+              "ToolTip": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Students.aspx",
+              "RelativeToolTip": "ProjectAAS\\Students.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-20T12:41:00.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Students.aspx.cs",
+              "DocumentMoniker": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Students.aspx.cs",
+              "RelativeDocumentMoniker": "ProjectAAS\\Students.aspx.cs",
+              "ToolTip": "D:\\code\\awa\\ProjectAAS\\ProjectAAS\\Students.aspx.cs",
+              "RelativeToolTip": "ProjectAAS\\Students.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:09:08.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

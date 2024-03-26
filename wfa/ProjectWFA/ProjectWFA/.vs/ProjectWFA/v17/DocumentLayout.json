@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\wfa\\ProjectWFA\\ProjectWFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252DE1B1-4859-47BA-9BF6-ABE7E3BFD9F0}|ProjectWFA\\ProjectWFA.csproj|d:\\code\\wfa\\projectwfa\\projectwfa\\projectwfa\\grade\\formviewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252DE1B1-4859-47BA-9BF6-ABE7E3BFD9F0}|ProjectWFA\\ProjectWFA.csproj|solutionrelative:projectwfa\\grade\\formviewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252DE1B1-4859-47BA-9BF6-ABE7E3BFD9F0}|ProjectWFA\\ProjectWFA.csproj|D:\\code\\wfa\\ProjectWFA\\ProjectWFA\\projectwfa\\grade\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252DE1B1-4859-47BA-9BF6-ABE7E3BFD9F0}|ProjectWFA\\ProjectWFA.csproj|solutionrelative:projectwfa\\grade\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormViewGrade.cs",
+              "DocumentMoniker": "D:\\code\\wfa\\ProjectWFA\\ProjectWFA\\ProjectWFA\\Grade\\FormViewGrade.cs",
+              "RelativeDocumentMoniker": "ProjectWFA\\Grade\\FormViewGrade.cs",
+              "ToolTip": "D:\\code\\wfa\\ProjectWFA\\ProjectWFA\\ProjectWFA\\Grade\\FormViewGrade.cs",
+              "RelativeToolTip": "ProjectWFA\\Grade\\FormViewGrade.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:29:51.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\code\\wfa\\ProjectWFA\\ProjectWFA\\ProjectWFA\\Grade\\Grade.cs",
+              "RelativeDocumentMoniker": "ProjectWFA\\Grade\\Grade.cs",
+              "ToolTip": "D:\\code\\wfa\\ProjectWFA\\ProjectWFA\\ProjectWFA\\Grade\\Grade.cs",
+              "RelativeToolTip": "ProjectWFA\\Grade\\Grade.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowFQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:22:04.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
